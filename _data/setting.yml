@@ -1,0 +1,14 @@
+#-------------------------------
+# General Site Settings
+
+title: Lazy Dubuntu
+description: Shell Script For Drupal Developers
+email: darrylnorris.com@gmail.com
+
+#-------------------------------
+# SEO Section
+
+seo:
+  description: 'Faster, Easier and Flexible Way To Setup Your Drupal Dev Environment.'
+  rel-author: 'darrylnorris.com'
+  rel-publisher: 'darrylnorris.com'
