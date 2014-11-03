@@ -32,4 +32,4 @@ this project is [open source]({{ site.source_link }})
 <i class="fa fa-drupal fa-stack-1x" style="color: black;"></i>
 </span></a>
 <a href="http://www.darrylnorris.com">
-<img src="http://darrylnorris.com/sites/all/themes/bootstrap_subtheme/logo.png" style="max-height: 28px;" alt="DarrylNorris Website"></a>
+<img src="/img/logo.png" style="max-height: 28px;" alt="DarrylNorris Website"></a>
