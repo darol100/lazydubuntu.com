@@ -26,6 +26,5 @@ You can go to the project page and download it.
 
 ## Watch the installation process
 
--->
-
 Video Later
+-->
