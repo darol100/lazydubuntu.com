@@ -2,7 +2,7 @@
 title: Installation
 bg: "#BD1300"
 color: white
-"fa-icon": plug
+"fa-icon": toggle-on
 published: true
 ---
 
