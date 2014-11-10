@@ -18,12 +18,14 @@ unzip master.zip  # Extract
 cd lazydubuntu-master  
 sudo bash lazydubuntu.sh  # Run the shell script
 {% endhighlight %}
-
+<!--- 
 ## Normal Way
 
 You can go to the project page and download it.
 
 
 ## Watch the installation process
+
+-->
 
 Video Later
