@@ -15,7 +15,7 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "Lazy Dubuntu - Fast and Easy Drupal Enviroment"
+title:       "Lazy Dubuntu -Faster, Easier and Flexible Way To Setup Your Drupal Dev Environment"
 keywords:    "Lazy Dubuntu, ubuntu, drupal, lamp, atom, development,"
 description: "A Shell Scrip that will automate your Development enviroment for Drupal and others web technology."
 source_link: "https://github.com/darol100/lazydubuntu"
