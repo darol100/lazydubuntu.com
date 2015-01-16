@@ -1,5 +1,5 @@
 ---
-title: Systems Requirements
+title:  Requirements
 bg: "#433F3C"
 color: white
 "fa-icon": "file-text"
